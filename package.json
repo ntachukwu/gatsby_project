@@ -17,7 +17,7 @@
     "@contentful/rich-text-react-renderer": "^14.1.1",
     "gatsby": "^2.23.12",
     "gatsby-plugin-react-helmet": "^3.3.10",
-    "gatsby-source-contentful": "^2.3.32",
+    "gatsby-source-contentful": "^8.9.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-helmet": "^6.1.0"
